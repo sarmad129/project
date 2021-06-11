@@ -1,0 +1,4 @@
+sp20-bcs-628,cui@123
+sp20-bcs-142,cui@123
+fa18-bcs-816,cui@123
+fa19-bse-005,cui@123
